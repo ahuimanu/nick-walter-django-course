@@ -9,7 +9,7 @@ from django.db import models
 # add to admin
 
 class Blog(models.Model):
-    title = models.CharField(max_length=200)
+    title = models.CharField(max_length=255)
     pub_date = models.DateTimeField(auto_now=True)
     body = models.TextField()
     image = models.ImageField(upload_to='images/')
