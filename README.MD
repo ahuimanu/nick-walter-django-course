@@ -1,4 +1,4 @@
-# Nick Walter Udemy Tutorial
+# Nick Walter's Udemy Django 2.x Tutorial
 
 Follow along with Nick's code
 
